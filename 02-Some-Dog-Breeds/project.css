@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.first {
+    padding: 10px;
+    margin: 10px;
+}
+.dogs-title {
+    margin: 20px;
+    font-size: 36px;
+}
+
+.btn {
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;  
+    border-radius: 4px;
+}
+
+.btn-add:hover {
+    background-color: green;
+    color: white;
+    border-color: white;
+}
+
+.btn-del:hover {
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+#dogs {
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+}
