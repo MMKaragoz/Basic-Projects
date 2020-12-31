@@ -1,4 +1,4 @@
-###Some Dog Breeds
+### Some Dog Breeds
 
 This is a simple application using AJAX.
 https://dog.ceo/dog-api/documentation/ the web site I use. 
