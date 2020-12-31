@@ -7,7 +7,6 @@ Using the API here, we can add some dog breeds that I have determined and delete
 ![Register Form](https://i.hizliresim.com/Id2tGK.png)
 
 
-
 ##### Things that I learned:
 
 - promise.prototype.then(). ([Click for details])(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
